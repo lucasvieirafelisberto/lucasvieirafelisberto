@@ -58,5 +58,4 @@
 <a href="https://www.facebook.com/profile.php?id=100004357899713" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"_blank"></a>
 <a href="https://www.instagram.com/lucas_fvieira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"></a>
       
-  ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-</div>
+  ![snake gif](https://github.com/lucasvieirafelisberto/lucasvieirafelisberto/blob/output/github-contribution-grid-snake.svg)
