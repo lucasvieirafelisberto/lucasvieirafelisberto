@@ -3,8 +3,7 @@
 
 - 🔭 Atualmente - trabalho como Analista de ETL
 - 🌱 Cursando pós-graduação em Desenvolvimento Web
-- 🎓 Formado  em Análise e desenvolvimento de Sistemas
-- 💻 Conhecimento - Lógica de Programação / C / JAVA / POO/ PostgreSQL / MySql/  HTML / CSS / Bootstrap / JavaScript
+- 🎓 Formado  em Análise e Desenvolvimento de Sistemas
 
 ##
 ![c633c20ede82f0e0ced7d570dbe3a1f3]( https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
@@ -30,6 +29,7 @@
 
 ### 👩‍💻 &nbsp;Back-End
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
