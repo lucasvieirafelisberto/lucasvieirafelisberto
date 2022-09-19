@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Lucas Vieira Feliberto 🍀
 ## Bem-vindo ao meu Perfil 😀
 
-- 🔭 Atualmente -  trabalho como Analista de ETL
-- 🌱 Cursando -  pós-graduação em Desenvolvimento Web
-- 🎓 Formado - em Análise e desenvolvimento de Sistemas
+- 🔭 Atualmente - trabalho como Analista de ETL
+- 🌱 Cursando pós-graduação em Desenvolvimento Web
+- 🎓 Formado  em Análise e desenvolvimento de Sistemas
 - 💻 Conhecimento - Lógica de Programação / C / JAVA / POO/ PostgreSQL / MySql/  HTML / CSS / Bootstrap / JavaScript
 
 ##
