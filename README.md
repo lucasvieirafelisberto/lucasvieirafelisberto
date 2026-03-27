@@ -1,17 +1,35 @@
 ## 👋 Olá! Eu sou o Lucas Vieira Felisberto
 
-🎯 **Analista de Dados**  
-📚 Pós-graduação em Desenvolvimento Web  
-🎓 Formado em Análise e Desenvolvimento de Sistemas  
+## 💻 Analista de Dados | ETL | SQL | Pentaho | Python | Data Engineering
 
 ---
 
 ## 🚀 Sobre mim
-- 🔭 Atualmente trabalhando com dados  
-- 🌱 Estudando desenvolvimento web e engenharia de dados  
-- 📊 Focado em transformar dados em insights  
 
----
+Analista de Dados e ETL com 3+ anos de experiência em análise, migração e qualidade de dados, e 6+ anos em TI com foco em infraestrutura.
+Experiência sólida com PostgreSQL, atuando na análise de erros, otimização e melhorias de processos, sempre visando eficiência e confiabilidade dos dados.
+
+🔧 Atuo com:
+- ETL utilizando **Pentaho Data Integration (PDI)**
+- Manipulação de dados com **SQL**
+- Bancos: PostgreSQL, SQL Server, MySQL e Firebird e outros bancos.
+- Integração de dados (CSV, DBF, Paradox)
+
+💡 Experiência em:
+- Desenvolvimento e manutenção de pipelines de dados  
+- Migração de sistemas (on-premise e cloud) e também dos legados da empresa. 
+- Limpeza, validação e qualidade de dados  
+- Levantamento de requisitos com áreas de negócio  
+
+⚙️ Outros conhecimentos:
+- Versionamento (Git e SVN)  
+- Metodologias ágeis (Scrum e Kanban)  
+- Documentação técnica  
+
+📈 Atualmente:
+- Estudando **Python para desenvolvimento,dados e ETL**  
+- Evoluindo em **Power BI**  
+- Foco em **Engenharia de Dados**  
 
 ## 🧰 Tech Stack
 
@@ -65,11 +83,12 @@
 
 ---
 
-## 🏆 Conquistas
+## 📌 Destaques
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lucasvieirafelisberto&theme=dracula&no-frame=true&row=1"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasvieirafelisberto&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasvieirafelisberto&theme=dracula&utcOffset=-3"/>
 
 </div>
 
@@ -89,15 +108,6 @@
   </a>
 </div>
 
----
-
-## 👀 Visitas
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=lucasvieirafelisberto&color=blue"/>
-
-</div>
 
 ---
 
