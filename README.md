@@ -2,6 +2,8 @@
 
 ## 💻 Analista de Dados | ETL | SQL | Pentaho | Python | Data Engineering
 
+---
+## 🌐 Contato
 <div align="center">
   <a href="mailto:lucasvieira.trabalhos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -133,22 +135,6 @@ Tenho experiência sólida com **PostgreSQL**, atuando na análise e resolução
 
 ---
 
-## 🌐 Contato
-
-<div align="center">
-  <a href="mailto:lucasvieira.trabalhos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-vieira-felisberto-16babb1a0/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/lucas_fvieira/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
-
-
----
 
 ⭐ *Se gostou do perfil, não esqueça de deixar uma estrela nos repositórios!*
 
