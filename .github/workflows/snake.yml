@@ -1,13 +1,8 @@
-# Nome da Action
-name: Snake Game
+name: Snake Animation
 
-# Quando será executado
 on:
   schedule:
-    # Executa a cada 5 horas
-    - cron: "0 */5 * * *"
-
-  # Permite rodar manualmente na aba Actions
+    - cron: "0 */6 * * *" # roda a cada 6 horas
   workflow_dispatch:
 
 jobs:
@@ -15,26 +10,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Faz checkout do repositório
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
+      # Checkout do repositório
+      - uses: actions/checkout@v3
 
-      # Gera o snake (VERSÃO ATUALIZADA)
-      - name: Gerar animação do Snake
-        uses: Platane/snk@v3
+      # Gera o Snake (VERSÃO PREMIUM)
+      - uses: Platane/snk@v3
         with:
           github_user_name: lucasvieirafelisberto
-
-          # Novo formato (substitui gif_out_path e svg_out_path)
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Publica o resultado no branch "output"
-      - name: Publicar no branch output
-        uses: crazy-max/ghaction-github-pages@v3
+      # Publica no branch output
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
-
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
