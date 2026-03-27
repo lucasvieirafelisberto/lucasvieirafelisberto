@@ -32,13 +32,25 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas (SEM VERCEL 🔥)
 
 <div align="center">
-  <a href="https://github.com/lucasvieirafelisberto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasvieirafelisberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvieirafelisberto&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400"/>
-  </a>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasvieirafelisberto&theme=dracula"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasvieirafelisberto&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasvieirafelisberto&theme=dracula"/>
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasvieirafelisberto&theme=dracula&hide_border=true"/>
+
 </div>
 
 ---
@@ -46,7 +58,19 @@
 ## 🐍 Contribuições
 
 <div align="center">
-  <img src="https://github.com/lucasvieirafelisberto/lucasvieirafelisberto/blob/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://github.com/lucasvieirafelisberto/lucasvieirafelisberto/blob/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lucasvieirafelisberto&theme=dracula&no-frame=true&row=1"/>
+
 </div>
 
 ---
@@ -63,6 +87,16 @@
   <a href="https://www.instagram.com/lucas_fvieira/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</div>
+
+---
+
+## 👀 Visitas
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lucasvieirafelisberto&color=blue"/>
+
 </div>
 
 ---
