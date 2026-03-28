@@ -5,11 +5,11 @@
 ---
 ## 🌐 Contato
 <div align="center">
-  <a href="mailto:lucasvieira.trabalhos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucasvieira.trabalhos@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/lucas-vieira-felisberto-16babb1a0/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/lucas-vieira-felisberto-16babb1a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
@@ -67,7 +67,7 @@ Tenho experiência sólida com **PostgreSQL**, atuando na análise e resolução
 
 ### 💻 Programação
 ![Python](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript)
+
 
 ---
 
@@ -85,7 +85,7 @@ Tenho experiência sólida com **PostgreSQL**, atuando na análise e resolução
 
 ---
 
-### 🔄 Metodologias
+### 🔄 Metodologias ágeis 
 ![Scrum](https://img.shields.io/badge/Scrum-05122A?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Kanban-05122A?style=for-the-badge)
 
