@@ -134,6 +134,6 @@ Tenho experiência sólida com **PostgreSQL**, atuando na análise e resolução
 </div>
 
 ---
-
-
 ⭐ *Se gostou do perfil, não esqueça de deixar uma estrela nos repositórios!*
+
+![c633c20ede82f0e0ced7d570dbe3a1f3]( https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
